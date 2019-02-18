@@ -1,0 +1,45 @@
+20190217 Borwells Software Challenge - HOW AND WHAT HAS BEEN DONE
+Marcus Ambler – 20190218 
+The demo has been prepared with xampp:
+-	php
+-	mySql
+-	html
+Passwords required to enter the different system areas:
+-	None
+Files:
+•	Form.php
+•	handle_form.php
+•	form.css
+•	home_fullscreen_image.jpg
+
+Scope:
+Write a program that takes as input the dimensions of a room and outputs the following:
+•	Area of the floor
+•	Amount of paint required to paint the walls
+•	Volume of the room
+
+Consider the use of unit tests where appropriate and ensure your code is clean and readable.
+
+Restrictions:
+Your solution should be written in one of C#, Java or C++ (LAMP Permitted and includes php so php and html used).
+
+Submissions:
+Please publish all documents, source code and project files along with build instructions to GitHub or equivalent. 
+
+Ensure the email contains:
+Link to repository
+
+Installation:
+a)	Go to Githum repository ___
+b)	Open the following zip file: 20190218 20.26 BSC - Marcus Ambler
+c)	Uncompress this file in your computer 
+d)	Ensure that you are running php/apache/mysql (typical LAMP/XAMPP stack)
+e)	Locate files with CSS & Images folders within web server folder (usually htdocs)
+f)	Ensure that you read files in a web browser
+g)	Open form.php first
+h)	Fill in the form and click submit
+i)	The file handle_form.php will be visible
+Specificaions followed:
+-	Area of floor - defined
+-	Amount of paint required to paint the walls – defined
+-	Volume of room - defined

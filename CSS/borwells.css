@@ -1,0 +1,45 @@
+*{ padding: 0px; border: 0px; margin: 0px; }
+
+body {
+	background-image: url(/borwells/Images/home_fullscreen_image.jpg);
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	padding: 0 0 0px;
+	font: verdana;
+}
+
+.wrapper {
+	position: relative;
+	top: 20px;
+	left: 15%;
+	width: 75%;
+	text-align: left;
+	font-variant: small-caps;
+	font-size: 14pt;
+}
+}
+
+h1	{
+	font-size: 28pt;
+	padding: 30px 0px 30px;
+	font-variant: small-caps;
+}
+
+h3	{
+	padding: 25px 0 0;
+}
+
+ul {
+	list-style-position: inside;
+	padding-left: 10px;
+	margin-left: 0px;
+	padding: 10px 10px 10px;
+}
+
+
+
+
+
+
+
